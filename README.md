@@ -18,7 +18,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 ![React](https://img.shields.io/badge/React-61DAFB)
-- Git & GitHub
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
 ---
