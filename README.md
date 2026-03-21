@@ -38,11 +38,13 @@ HTML, CSS
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rimon-18&show_icons=true)
 
+## 🌐 Connect with me
+- LinkedIn: (www.linkedin.com/in/rimon-nandi)
+- Portfolio: ()
+
+- 
 ## 🐍 Contribution Snake
 
 ![snake](https://raw.githubusercontent.com/Rimon-18/Rimon-18/output/github-contribution-grid-snake.svg)
 ---
 
-## 🌐 Connect with me
-- LinkedIn: (www.linkedin.com/in/rimon-nandi)
-- Portfolio: ()
