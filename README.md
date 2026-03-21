@@ -22,7 +22,7 @@
 ---
 # 🔥 Projects
 ### 🎬 Netflix Clone
-🔗 Live Demo: rimon-movie-ui.netlify.app 
+🔗 Live Demo: https://rimon-movie-ui.netlify.app/
 
 💻 GitHub: https://github.com/Rimon-18/netflix-clone  
 
