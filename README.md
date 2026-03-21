@@ -42,7 +42,6 @@ HTML, CSS
 - LinkedIn: (www.linkedin.com/in/rimon-nandi)
 - Portfolio: ()
 
-- 
 ## 🐍 Contribution Snake
 
 ![snake](https://raw.githubusercontent.com/Rimon-18/Rimon-18/output/github-contribution-grid-snake.svg)
