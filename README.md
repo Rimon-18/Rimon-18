@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**Rimon-18/Rimon-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Rimon
 
-Here are some ideas to get you started:
+💻 B.Tech Biotech Student | Aspiring Full Stack Developer  
+🔥 Passionate about Web Development & Fitness  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+- HTML, CSS, JavaScript
+- React (learning)
+- Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Rimon-18&show_icons=true)
+
+---
+
+## 🌐 Connect with me
+- LinkedIn: (www.linkedin.com/in/rimon-nandi)
+- Portfolio: (add later)
