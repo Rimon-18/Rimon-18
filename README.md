@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Rimon%20Nandi&fontSize=45&fontColor=00ffcc&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=20&descAlignY=70)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Rimon+Nnadi;Full+Stack+Developer;Frontend+Lover;Always+Learning+New+Things🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Rimon+Nandi;Full+Stack+Developer;Frontend+Lover;Always+Learning+New+Things🚀">
 </p>
 # Hi 👋, I'm Rimon Nandi
 
