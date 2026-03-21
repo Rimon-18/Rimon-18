@@ -16,7 +16,7 @@
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-- React (learning)
+![React](https://img.shields.io/badge/React-61DAFB)
 - Git & GitHub
 
 
