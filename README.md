@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Rimon%20Nnadi&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Rimon%20Nandi&fontSize=40&fontColor=ffffff&animation=fadeIn)
 # Hi 👋, I'm Rimon Nandi
 
 💻 B.Tech Biotech Student | Aspiring Full Stack Developer  
