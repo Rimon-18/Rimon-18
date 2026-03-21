@@ -5,6 +5,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Hi+I'm+Rimon+Nandi;Full+Stack+Developer;Frontend+Lover;Always+Learning+New+Things🚀">
 </p>
+
+## 🐍 Contribution Snake
+
+![snake](https://raw.githubusercontent.com/Rimon-18/Rimon-18/output/github-contribution-grid-snake.svg)
 # Hi 👋, I'm Rimon Nandi
 
 💻 B.Tech Biotech Student | Aspiring Full Stack Developer  
