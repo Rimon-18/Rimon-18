@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Rimon%20Nandi&fontSize=45&fontColor=00ffcc&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=20&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Rimon%20Nandi&fontSize=40&fontColor=00ffcc&animation=fadeIn)
 
 
 
