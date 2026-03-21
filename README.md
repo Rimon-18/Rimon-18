@@ -20,6 +20,21 @@
 - Git & GitHub
 
 ---
+# 🔥 Projects
+### 🎬 Netflix Clone
+🔗 Live Demo: rimon-movie-ui.netlify.app 
+💻 GitHub: https://github.com/Rimon-18/netflix-clone  
+
+✨ Features:
+- Responsive UI (mobile + desktop)
+- Movie thumbnails & hover effects
+- Clean and modern design  
+
+🛠 Tech Used:
+HTML, CSS
+
+---
+
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rimon-18&show_icons=true)
