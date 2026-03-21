@@ -27,17 +27,10 @@
 ### 🎬 Netflix Clone
 🔗 Live Demo: https://rimon-movie-ui.netlify.app/
 
-💻 GitHub: https://github.com/Rimon-18/netflix-clone  
+###📌 Personal Portfolio Website
+🌐 Live Demo:- https://rimonporfolio.netlify.app/
 
-✨ Features:
-- Responsive UI (mobile + desktop)
-- Movie thumbnails & hover effects
-- Clean and modern design  
 
-🛠 Tech Used:
-HTML, CSS
-
----
 
 
 ## 📊 GitHub Stats
