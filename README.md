@@ -26,4 +26,4 @@
 
 ## 🌐 Connect with me
 - LinkedIn: (www.linkedin.com/in/rimon-nandi)
-- Portfolio: (add later)
+- Portfolio: ()
