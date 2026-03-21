@@ -24,8 +24,10 @@
 
 ---
 # 🔥 Projects
+
 ### 🎬 Netflix Clone
 🔗 Live Demo: https://rimon-movie-ui.netlify.app/
+
 
 ###📌 Personal Portfolio Website
 🌐 Live Demo:- https://rimonporfolio.netlify.app/
