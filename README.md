@@ -1,8 +1,8 @@
-## Hi there 👋
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Rimon%20Nandi&fontSize=40&fontColor=00ffcc&animation=fadeIn)
 
-<h1 align="center">Hi 👋, I'm Rimon Nandi</h1>
+<h1 align="center">Hi , I'm Rimon Nandi</h1>
  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&size=22&duration=3000&pause=500&color=00ffcc&width=650&lines=B.Tech+Biotech+Student+%7C+Frontend+Developer;Building+real+projects+that+people+use+🚀;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Open+to+internships+and+collaborations+🤝" alt="Typing SVG" />
@@ -41,14 +41,17 @@
 
 ### 🎬 Netflix Clone
 🔗 Live Demo: https://rimon-movie-ui.netlify.app/
+> A Netflix-inspired UI clone with a clean, responsive design.
 
 
 ### 📌 Personal Portfolio Website
 🌐 Live Demo:- https://rimonporfolio.netlify.app/
+> My personal portfolio showcasing my skills, projects and experience.
 
 
 ###  🎵 Spotify Clone
 🌐 Live Demo:- https://spotify-clone-rimon.onrender.com
+> A fully functional music player with real audio playback, hover effects, dynamic song library and mobile responsiveness.
 
 ---
 
