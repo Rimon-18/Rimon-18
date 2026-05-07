@@ -40,6 +40,20 @@
 ###  🎵 Spotify Clone
 🌐 Live Demo:- https://spotify-clone-rimon.onrender.com
 
+---
+
+## 📊 GitHub Stats
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rimon-18&show_icons=true&theme=tokyonight" alt="Rimon's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimon-18&theme=tokyonight" alt="Rimon's Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimon-18&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 
 ## 🤝 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rimon-18/Rimon-18)
