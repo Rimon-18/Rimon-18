@@ -2,6 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Rimon%20Nandi&fontSize=40&fontColor=00ffcc&animation=fadeIn)
 
+<h1 align="center">Hi 👋, I'm Rimon Nandi</h1>
+ 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&size=22&duration=3000&pause=500&color=00ffcc&width=650&lines=B.Tech+Biotech+Student+%7C+Frontend+Developer;Building+real+projects+that+people+use+🚀;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Open+to+internships+and+collaborations+🤝" alt="Typing SVG" />
+</p>
 
 
 
@@ -42,17 +47,7 @@
 
 ---
 
-## 📊 GitHub Stats
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rimon-18&show_icons=true&theme=tokyonight" alt="Rimon's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimon-18&theme=tokyonight" alt="Rimon's Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rimon-18&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
 
 
 ## 🤝 Connect With Me
