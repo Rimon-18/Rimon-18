@@ -41,11 +41,6 @@
 🌐 Live Demo:- https://spotify-clone-rimon.onrender.com
 
 
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Rimon-18&show_icons=true)
-
-
 ## 🤝 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rimon-18/Rimon-18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rimon-nandi)
