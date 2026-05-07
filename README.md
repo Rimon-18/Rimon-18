@@ -7,7 +7,8 @@
 
 # Hi 👋, I'm Rimon Nandi
 
-💻 B.Tech Biotech Student | Frontend Developer | Developed live projects including a portfolio website , Netflix UI clone , Spotify Clone
+💻 B.Tech Biotech Student | Frontend Developer | Developed live projects including a portfolio website,Netflix UI clone,Spotify Clone
+
 🔥 Passionate about Web Development  
 
 ---
