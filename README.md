@@ -12,9 +12,14 @@
 
 
 
-💻 B.Tech Biotech Student | Frontend Developer | Developed live projects including a portfolio website,Netflix UI clone,Spotify Clone|
-
-🔥 Passionate about Web Development  
+## 👨‍💻 About Me
+ 
+- 🎓 B.Tech Biotech Student with a passion for **Web Development**
+- 💻 I build real, deployed projects — not just tutorials
+- 🌱 Currently learning **React** and improving my **JavaScript** skills
+- 🚀 Developed live projects including a **Portfolio**, **Netflix UI Clone** and **Spotify Clone**
+- 🔥 I love turning ideas into real working websites
+- 📫 Reach me at: **[LinkedIn](www.linkedin.com/in/rimon-nandi)**
 
 ---
 
