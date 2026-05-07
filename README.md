@@ -7,8 +7,8 @@
 
 # Hi 👋, I'm Rimon Nandi
 
-💻 B.Tech Biotech Student | Aspiring Full Stack Developer  
-🔥 Passionate about Web Development & Fitness  
+💻 B.Tech Biotech Student | Frontend Developer
+🔥 Passionate about Web Development  
 
 ---
 
