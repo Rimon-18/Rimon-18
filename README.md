@@ -22,6 +22,14 @@
 - 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/rimon-nandi/)**
 
 ---
+## 🚧 Currently Working On
+
+- 🔨 Learning **React.js** to build dynamic web apps
+- 🌱 Improving **JavaScript** fundamentals (ES6+)
+- 💡 Building a **Weather App** using React + OpenWeather API
+- 📚 Exploring **Node.js** basics for backend development
+
+---
 
 ## 🚀 Skills
 ![HTML](https://img.shields.io/badge/HTML-orange)
