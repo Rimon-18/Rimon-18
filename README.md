@@ -59,9 +59,9 @@
 
 ## 📊 GitHub Stats
 
-![Rimon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rimon-18&show_icons=true&theme=tokyonight&hide_border=true)
+![Rimon's GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=Rimon-18&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rimon-18&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Rimon-18&layout=compact&theme=tokyonight&hide_border=true)
 
 
 ## 🤝 Connect With Me
