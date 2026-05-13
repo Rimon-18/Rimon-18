@@ -19,7 +19,7 @@
 - 🌱 Currently learning **React** and improving my **JavaScript** skills
 - 🚀 Developed live projects including a **Portfolio**, **Netflix UI Clone** and **Spotify Clone**
 - 🔥 I love turning ideas into real working websites
-- 📫 Reach me at: **[LinkedIn](www.linkedin.com/in/rimon-nandi)**
+- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/rimon-nandi/)**
 
 ---
 
