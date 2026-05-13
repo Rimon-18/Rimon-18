@@ -28,7 +28,7 @@
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
-![React](https://img.shields.io/badge/React-61DAFB)
+
 
 ## 🛠️ Tools & Technologies
 
