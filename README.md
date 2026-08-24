@@ -12,33 +12,33 @@
 
 
 
-## 👨‍💻 About Me
+##  About Me
  
-- 🎓 B.Tech Biotech Student with a passion for **Web Development**
-- 💻 I build real, deployed projects — not just tutorials
-- 🌱 Currently learning **React** and improving my **JavaScript** skills
-- 🚀 Developed live projects including a **Portfolio**, **Netflix UI Clone** and **Spotify Clone**
-- 🔥 I love turning ideas into real working websites
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/rimon-nandi/)**
+-  B.Tech Biotech Student with a passion for **Web Development**
+-  I build real, deployed projects — not just tutorials
+-  Currently learning **React** and improving my **JavaScript** skills
+-  Developed live projects including a **Portfolio**, **Netflix UI Clone** and **Spotify Clone**
+-  I love turning ideas into real working websites
+-  Reach me at: **[LinkedIn](https://www.linkedin.com/in/rimon-nandi/)**
 
 ---
-## 🚧 Currently Working On
+##  Currently Working On
 
-- 🔨 Learning **React.js** to build dynamic web apps
-- 🌱 Improving **JavaScript** fundamentals (ES6+)
-- 💡 Building a **Weather App** using React + OpenWeather API
-- 📚 Exploring **Node.js** basics for backend development
+-  Learning **React.js** to build dynamic web apps
+-  Improving **JavaScript** fundamentals (ES6+)
+-  Building a **Weather App** using React + OpenWeather API
+-  Exploring **Node.js** basics for backend development
 
 ---
 
-## 🚀 Skills
+##  Skills
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/)
@@ -47,38 +47,38 @@
 
 
 ---
-# 🔥 Projects
+## Projects
 
-### 🎬 Netflix Clone
-🔗 Live Demo: https://rimon-movie-ui.netlify.app/
+### Netflix Clone
+ Live Demo: https://rimon-movie-ui.netlify.app/
 > A Netflix-inspired UI clone with a clean, responsive design.
 
 
-### 📌 Personal Portfolio Website
-🌐 Live Demo:- https://rimonporfolio.netlify.app/
+###  Personal Portfolio Website
+ Live Demo:- https://rimonporfolio.netlify.app/
 > My personal portfolio showcasing my skills, projects and experience.
 
 
-###  🎵 Spotify Clone
-🌐 Live Demo:- https://spotify-clone-rimon.onrender.com
+###   Spotify Clone
+ Live Demo:- https://spotify-clone-rimon.onrender.com
 > A fully functional music player with real audio playback, hover effects, dynamic song library and mobile responsiveness.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Rimon's GitHub Stats](https://github-readme-stats-salesp07.vercel.app/api?username=Rimon-18&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Rimon-18&layout=compact&theme=tokyonight&hide_border=true)
 
 
-## 🤝 Connect With Me
+##  Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rimon-18/Rimon-18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rimon-nandi)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Rimon_Nandi007)
 
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 ![snake](https://raw.githubusercontent.com/Rimon-18/Rimon-18/output/github-contribution-grid-snake.svg)
 ---
